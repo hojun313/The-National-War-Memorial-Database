@@ -16,7 +16,7 @@ This project is a Python-based web scraper designed to extract war dead data fro
 ```
 .
 ├───.gitattributes
-├───전체 명단.zip             # Potentially a complete dataset or backup
+├───전체 명단.zip             # A complete dataset
 ├───combine_army_data.py    # Script for combining army data (if applicable)
 ├───get_html.py             # Utility for fetching HTML content
 ├───get_un_total_pages.py   # Script to determine total pages for UN data (if applicable)
